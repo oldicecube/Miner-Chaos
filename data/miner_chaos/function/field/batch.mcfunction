@@ -1,0 +1,10 @@
+execute in miner_chaos:miner_chaos run function miner_chaos:field/random_block
+execute in miner_chaos:miner_chaos run function miner_chaos:field/random_block
+execute in miner_chaos:miner_chaos run function miner_chaos:field/random_block
+execute in miner_chaos:miner_chaos run function miner_chaos:field/random_block
+execute in miner_chaos:miner_chaos run function miner_chaos:field/random_block
+execute in miner_chaos:miner_chaos run function miner_chaos:field/random_block
+execute in miner_chaos:miner_chaos run function miner_chaos:field/random_block
+execute in miner_chaos:miner_chaos run function miner_chaos:field/random_block
+execute in miner_chaos:miner_chaos run function miner_chaos:field/random_block
+execute in miner_chaos:miner_chaos run function miner_chaos:field/random_block
