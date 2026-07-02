@@ -1,15 +1,8 @@
-# Miner Chaos
+# Miner-Chaos
+用于MC的可移植并有良好兼容性的小游戏数据包
+本数据包是为GSMPS服务器开发的小游戏，挪用请著名出处
 
-用于 Minecraft 的可移植并有良好兼容性的小游戏数据包。
+初次使用时请先在导入数据包后重启存档/服务器，并在进入数据包新创建的小游戏维度后，使用创世神mod/插件，粘贴附带的map.schem，使用//paste -o -a，避免坐标错乱
 
-## 简介
-
-Miner Chaos（混沌矿工）是一款 Minecraft 多人小游戏数据包，玩家在随机生成的矿物場地中竞技。
-
-## 安装
-
-将整个 `Miner Chaos` 文件夹放入存档的 `datapacks/` 目录下，游戏中执行 `/reload` 即可。
-
-## 许可
-
-MIT License
+您需要手动修改数据包中/data/miner_chaos/game/quit.mcfunction中的退出传送坐标
+您需要在入口处手动放置一个命令方块执行/execute as <选择器> run function miner_chaos:game/lobby来进入小游戏
